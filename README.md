@@ -1,4 +1,4 @@
-# Travel Tour
+# City Riders
 
 A react-based front-end site of a travel agency page. A person can register as a new user and existing user can login to see riders information. User can chosse riders and check out date and see available riders . Also a react map of destination place is showed
 
@@ -38,4 +38,4 @@ A react-based front-end site of a travel agency page. A person can register as a
 
 # Live Link 
 
-https://city-riders12.web.app/# city-riders
+https://city-riders12.web.app/
