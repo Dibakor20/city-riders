@@ -1,0 +1,24 @@
+
+.city-riders{
+    color:darkgreen !important;
+}
+.navbar-brand{
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 700;
+    font-size: 34px;
+}
+.nav-link{
+    font-size: 20px !important;
+    color: black !important;
+}
+.navbar-brand{
+    font-weight: 700 !important;
+    color: goldenrod !important;
+}
+.log{
+    background-color: goldenrod !important;
+}
+
+.nav-link:hover{
+    background-color: goldenrod;
+}

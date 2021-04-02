@@ -1,0 +1,73 @@
+.booking-form{
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 5px;
+    float: right;
+    width: 70%;
+    margin: 50px 0px 0px 80px;
+}
+ .booking-form h3{
+    margin: 10px 0px;
+}
+.booking-form  .input-group{
+    margin: 10px 0;
+}
+.booking-form  .calculations{
+    margin: 10px 0;
+}
+.booking-form  .calculations p{
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.booking-form input{
+    width: 100%;
+    display: block;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background: #F3F5FF;
+    border-radius: 4px;
+    margin: 10px 0;
+}
+.booking-form .inputs{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+} 
+/* .form-control{
+    background-color: coral !important;
+    color: white;
+}  */
+.error{
+    color: red;
+}
+.booking-img{
+    width:600px;
+    height: 450px;
+}
+.main-button{
+    background-color: #F9A51A!important;
+    border-radius: 5px;
+    padding: 5px 30px;
+    border: unset;
+}
+
+@media only screen and (max-width: 600px){
+    .booking-form{
+        float: none;
+        margin: 55px 0px 0px 62px;
+    }
+    .booking-img{
+        width: 410px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    .booking-img{
+        width: 345px;
+    }
+    .booking-form{
+        float: unset;
+    }
+}

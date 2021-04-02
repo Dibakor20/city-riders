@@ -1,0 +1,26 @@
+.card{
+    max-width: 18rem;  
+}
+.vehicleImg{
+    width: 80%;
+    margin-top: 20px;
+}
+ .card{
+    width: 220px;
+    height: 200px;
+    color: green;
+    margin-top: 40px;
+    background-color:#ebf3fd !important;
+    border-radius: 20px;
+}
+.card:hover {
+    box-shadow: 5px 5px 10px gray, -5px -5px 10px gray;
+    transition: .3s;
+    cursor: pointer;
+    
+} 
+a:link {
+    text-decoration: none;
+  
+  }
+
